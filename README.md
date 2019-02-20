@@ -1,4 +1,4 @@
-# df17-platform-events-architecture
+# platform-events-architecture
 
 ## resources
 
